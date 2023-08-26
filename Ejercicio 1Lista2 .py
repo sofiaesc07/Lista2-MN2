@@ -1,11 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 25 19:19:19 2023
-
-@author: GuillermoFurlan
-"""
 import numpy as np
+
 
 def lu(A):
     
